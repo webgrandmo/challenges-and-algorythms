@@ -1,0 +1,23 @@
+{
+  "name": "js-challenges-and-algorithms",
+  "version": "1.0.0",
+  "description": "JavaScript Challanges And Algorithms To Get Computer Science Basics",
+  "homepage": "https://github.com/webgrandmo/challenges-and-algorythms#readme",
+  "bugs": {
+    "url": "https://github.com/webgrandmo/challenges-and-algorythms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webgrandmo/challenges-and-algorythms.git"
+  },
+  "license": "MIT",
+  "author": "Andriy Trofimov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
